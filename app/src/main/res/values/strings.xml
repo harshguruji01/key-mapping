@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KeyNova</string>
+    <string name="developer_name">HarshGuruJi</string>
+    <string name="app_tagline">Lightweight Key Mapping &amp; Virtual Mouse</string>
+    <string name="accessibility_service_description">KeyNova Accessibility Service enables hardware key event detection and optional simulated touch interactions for user-configured gaming mappings. KeyNova never collects passwords, personal data, or unrelated keystrokes.</string>
+</resources>
